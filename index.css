@@ -830,6 +830,9 @@ footer {
     .foot2 input{
         padding:10px 5px 10px 5px
     }
+    body{
+        overflow-x:hidden;
+    }
 }
 @media (max-width:320px){
         header{
